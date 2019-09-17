@@ -13,6 +13,10 @@
    See the License for the specific language governing permissions and
    limitations under the License.
 */
+const rookout = require('rookout');
+rookout.start({
+    token: 'd7c496dabdbf3097650ee5de88549d89bd1d7385284ba833e3fdc040d302bda8'
+})
 
 'use strict';
 
